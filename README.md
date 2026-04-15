@@ -26,9 +26,6 @@ Contains comparison matrices and summary findings
 Collaboration/  
 Contains weekly updates, meeting notes, and communication summaries  
 
-privacy_audit_report.docx  
-Final report document  
-
 README.md  
 Project overview and documentation  
 
